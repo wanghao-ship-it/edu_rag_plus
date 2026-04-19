@@ -6,5 +6,3 @@
 
 hello git！
 
-hello dev!
-
